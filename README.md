@@ -5,8 +5,9 @@
 ## Description:
 - This dataset is a collection of over 90,000 used cars spanning from the year 1970 to 2024. This dataset offers a comprehensive glimpse into the world of automobiles, providing valuable insights for researchers, enthusiasts, and industry professionals alike.
 
-# Model: The model of the car. 
+# Features Included:
 This data set contains 90,000+ car data From 1970 to 2024, the dataset contains the following columns:
+- Model: The model of the car
 - Year: The manufacturing year of the car.
 - Price: The price of the car.
 - Transmission: The type of transmission used in the car.
@@ -16,3 +17,6 @@ This data set contains 90,000+ car data From 1970 to 2024, the dataset contains 
 - MPG: The miles per gallon efficiency of the car.
 - EngineSize: The size of the car's engine.
 - Manufacturer: The manufacturer of the car.
+
+# Source/Credits
+https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024 by MERUVU LIKITH

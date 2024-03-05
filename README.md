@@ -1,6 +1,6 @@
-# Car Data_analysis
+# Car Data Analysis
 
-
+<img src="https://github.com/chrispassas98/Car_Data_analysis/assets/154673007/e4eb5dfe-4d22-4dce-8582-d0b11b037898" width="800" height="800">
 
 ## Description:
 - This dataset is a collection of over 90,000 used cars spanning from the year 1970 to 2024. This dataset offers a comprehensive glimpse into the world of automobiles, providing valuable insights for researchers, enthusiasts, and industry professionals alike.

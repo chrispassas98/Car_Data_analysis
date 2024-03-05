@@ -18,5 +18,7 @@ This data set contains 90,000+ car data From 1970 to 2024, the dataset contains 
 - EngineSize: The size of the car's engine.
 - Manufacturer: The manufacturer of the car.
 
+# Project Objective
+
 # Source/Credits
 https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024 by MERUVU LIKITH

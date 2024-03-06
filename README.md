@@ -18,7 +18,16 @@ This data set contains 90,000+ car data From 1970 to 2024, the dataset contains 
 - EngineSize: The size of the car's engine.
 - Manufacturer: The manufacturer of the car.
 
-# Project Objective
+# Project Steps:
+Suppose we work for a company that imports and exports cars throughout Europe. The company is considering a significant investment in purchasing used cars for resale. Among these cars, some are vintage, and there's a particular interest in their profitability. The project manager has approached us to research this matter:
+1. First we need to understand the problem:
+   - What does the company want?
+   - How can we solve the matter?
+   - What do the stakeholders state as a problem?
+2. 
 
+# Project Objective
+Let's assume we work for a company that imports and exports cars throughout Europe. The company is considering a significant investment in purchasing used cars for resale. Among these cars, some are vintage, and there's a particular interest in their profitability. The project manager has approached us to research this matter:
+- 1. Which is the most 
 # Source/Credits
 https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024 by MERUVU LIKITH

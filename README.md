@@ -49,7 +49,9 @@ Suppose we work for a company that imports and exports cars throughout Europe. T
    
 
 # Project Objective
-
-- 1. Which is the most 
+Before we start, we need to define some things first: 
+- Define Vintage: We'll define vintage cars as those that are at least 25 years old from the current year (2024), so cars manufactured in 1999 or earlier.
+- Calculate Potential Profitability: We'll calculate the average price for vintage cars compared to newer ones, consider tax and MPG as part of the operational costs, and if possible, deduce any available data on maintenance or additional costs.
+- Identify Trends and Demand: We'll look at price trends over the past years for vintage cars to see if there's an appreciation in value, and try to identify the most sought-after models/manufacturers.
 # Source/Credits
 https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024 by MERUVU LIKITH

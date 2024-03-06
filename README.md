@@ -20,7 +20,7 @@ This data set contains 90,000+ car data From 1970 to 2024, the dataset contains 
 
 # Project Steps:
 Suppose we work for a company that imports and exports cars throughout Europe. The company is considering a significant investment in purchasing used cars for resale. Among these cars, some are vintage, and there's a particular interest in their profitability. The project manager has approached us to research this matter:
-1. Step one: First we need to understand the problem:
+1. Step 1: First we need to understand the problem:
    - What does the company want?
    - How can we solve the matter?
    - What do the stakeholders state as a problem?

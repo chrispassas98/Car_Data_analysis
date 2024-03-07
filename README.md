@@ -41,7 +41,7 @@ Suppose we work for a company that imports and exports cars throughout Europe. T
 5. Step 5: Share our data!
    - After the feedback we have to improve the general outcome. From one angle, the decision will most likely be more informed and better, but also the transparency will grant that there is more support to the findings.
    - What would help us understand the viz if we were the listeners?
-   - We need to wait for the company's feedback
+   - We need to wait for the company's feedback.
 6. Step 6: Act! We know our results, let's start!
    - What potential solutions to the outlined problem could there be?
    - Is this problem worth solving? (Yes, that is also a potential outcome)

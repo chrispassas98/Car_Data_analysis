@@ -53,5 +53,15 @@ Before we start, we need to define some things first:
 - Define Vintage: We'll define vintage cars as those that are at least 25 years old from the current year (2024), so cars manufactured in 1999 or earlier.
 - Calculate Potential Profitability: We'll calculate the average price for vintage cars compared to newer ones, consider tax and MPG as part of the operational costs, and if possible, deduce any available data on maintenance or additional costs.
 - Identify Trends and Demand: We'll look at price trends over the past years for vintage cars to see if there's an appreciation in value, and try to identify the most sought-after models/manufacturers.
+## Why do we perform these analyses?
+We can gain:
+- Strategic Insights: Help automotive businesses, analysts, and enthusiasts understand market trends, consumer preferences, and competitive landscapes.
+- Historical Trends: Analyzing data from 1970 to 2024 provides valuable insights into how the automotive industry has evolved over more than five decades.
+- Decision Support: For businesses, these insights can support strategic decisions related to inventory management, marketing strategies, and future investments. For consumers, it can inform buying decisions.
+- Market Segmentation: Understanding different segments (e.g., vintage cars, high MPG vehicles) enables targeted analysis, which is crucial for marketing, restoration projects, and more.
+- Technological and Environmental Impact: Analyzing trends in engine size, MPG, and the popularity of fuel types can provide insights into the automotive industry's impact on the environment and its response to technological advancements and environmental regulation
+
+
+
 # Source/Credits
 https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024 by MERUVU LIKITH
